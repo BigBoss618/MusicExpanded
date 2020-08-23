@@ -1,0 +1,48 @@
+music = {
+	name = "eastvswest"
+	file = "eastvswest.ogg"
+}
+music = {
+	name = "to_constantinople"
+	file = "to_constantinople.ogg"
+}
+music = {
+	name = "city_of_jerusalem"
+	file = "city_of_jerusalem.ogg"
+}
+music = {
+	name = "sabaton_last_stand"
+	file = "sabaton_last_stand.ogg"
+}
+music = {
+	name = "sabaton_winged_hussars"
+	file = "sabaton_winged_hussars.ogg"
+}
+music = {
+	name = "ave_maria_schubert"
+	file = "ave_maria_schubert.ogg"
+}
+music = {
+	name = "age_of_empires"
+	file = "age_of_empires.ogg"
+}
+music = {
+	name = "civilization"
+	file = "civilization.ogg"
+}
+music = {
+	name = "gatheringstorm"
+	file = "gatheringstorm.ogg"
+}
+music = {
+	name = "riseandfall"
+	file = "riseandfall.ogg"
+}
+music = {
+	name = "the_siege_of_la_rochelle"
+	file = "the_siege_of_la_rochelle.ogg"
+}
+music = {
+	name = "total_war_empire"
+	file = "total_war_empire.ogg"
+}

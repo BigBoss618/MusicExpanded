@@ -1,0 +1,157 @@
+song = {
+	name = "eastvswest"
+	chance = {
+		modifier = {
+			factor = 1
+		}
+		modifier = {
+			factor = 1.5
+			is_at_war = yes 
+		}
+	}
+}
+
+song = {
+	name = "city_of_jerusalem"
+	chance = {
+		modifier = {
+			factor = 0 
+		}
+		modifier = {
+			factor = 1 
+			religion_group = muslim 
+		}
+		modifier = {
+			factor = 1 
+			owns = 379
+		}
+	}
+}
+
+song = {
+	name = "to_constantinople"
+	chance = {
+		modifier = {
+			factor = 0 
+		}
+		modifier = {
+			factor = 1.5 
+			owns = 151 
+		}
+		modifier = {
+			factor = 1 
+			is_at_war = yes 
+		}
+	}
+}
+
+song = {
+	name = "sabaton_last_stand"
+	chance = {
+		modifier = {
+			factor = 0 
+		}
+		modifier = {
+			factor = 1 
+			capital_scope = {
+				region = italy
+			}
+		}
+		modifier = {
+			factor = 1 
+			owns = 118
+		}
+	}
+}
+
+song = {
+	name = "sabaton_winged_hussars"
+	chance = {
+		modifier = {
+			factor = 0 
+		}
+		modifier = {
+			factor = 1 
+			technology_group = eastern
+		}
+		modifier = {
+			factor = 1.5
+			has_estate = estate_cossacks 
+		}
+		modifier = {
+			factor = 0 
+			is_at_war = no 
+		}
+	}
+}
+
+song = {
+	name = "ave_maria_schubert"
+	chance = {
+		modifier = {
+			factor = 1 
+		}
+		modifier = {
+			factor = 0 
+			NOT = { religion_group = christian }
+		}
+	}
+}
+
+song = {
+	name = "age_of_empires"
+	chance = { 
+		modifier = {
+			factor = 1 
+		}
+	}
+}
+
+song = {
+	name = "civilization"
+	chance = { 
+		modifier = {
+			factor = 1 
+		}
+	}
+}
+
+song = {
+	name = "gatheringstorm"
+	chance = { 
+		modifier = {
+			factor = 1 
+		}
+	}
+}
+
+song = {
+	name = "riseandfall"
+	chance = { 
+		modifier = {
+			factor = 1 
+		}
+	}
+}
+
+song = {
+	name = "the_siege_of_la_rochelle"
+	chance = {
+		modifier = {
+			factor = 0 
+		}
+		modifier = {
+			factor = 2
+			is_at_war = yes 
+		}
+	}
+}
+
+song = {
+	name = "total_war_empire"
+	chance = {
+		modifier = {
+			factor = 1 
+		}
+	}
+}
